@@ -1,15 +1,46 @@
 # DocCureV1
 
-This project will have Ui cloned from DocCure
+# 🩺 **DocCure – Doctor Management System UI**
 
-https://github.com/ubeevn/doccure-doctor-appointment-booking-bootstrap-template-admin-dashboard
+A simple web-based user interface for a Doctor Management System built using HTML, CSS, JavaScript, and Bootstrap.
 
-Here we are trying to change the static html for general addressing to any doctor
+---
 
-### 1.1.1
+## 🧩 Versions
 
-- still working on ui, and local storage
+### 🔹 V1
+- Basic UI layout  
+- Doctor list page  
 
-### 1.1.2
+### 🔹 V2
+- Improved design  
+- Separate pages  
 
-- LoadAnchorId, V5 add listeners started
+### 🔹 V3
+- Dynamic doctor display  
+- Booking page  
+
+### 🔹 V4
+- Doctor-wise details  
+- Time slot UI  
+
+### 🔹 V5
+- Complete UI flow  
+- Ready for backend  
+
+---
+
+## 📄 Pages
+- `index.html` – Home  
+- `doctors.html` – Doctors  
+- `booking.html` – Booking  
+
+---
+
+## 🛠 Tech Stack
+HTML, CSS, JavaScript, Bootstrap
+
+---
+
+## ▶ Run
+Open `index.html` in browser.
