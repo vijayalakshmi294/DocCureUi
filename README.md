@@ -44,3 +44,8 @@ HTML, CSS, JavaScript, Bootstrap
 
 ## ▶ Run
 Open `index.html` in browser.
+
+
+- 1.1.1
+
+V5 booking need to be modular
